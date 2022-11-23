@@ -14,3 +14,4 @@ I've deployed this site at [Vercel]()
 
 - [ ] Try the form from here: https://codecapsules.io/docs/tutorials/build-express-htmx/#building-the-htmx-frontend
 
+- [ ] Try comparing Ratings of Parts, based on [this example](https://neo4j.com/graphgists/northwind-recommendation-engine/)
